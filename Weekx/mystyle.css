@@ -1,13 +1,7 @@
-<!DOCTYPE html>
-<html>
-<head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Menu Page</title>
 <style>
 
   body {
-  background-image: url('cuisine.jpg');
+  background-image: url('https://lh3.googleusercontent.com/proxy/94o8_80aGKaiHj6_HMAr4pCN2mxKmbzsft2HUfXV0lwYJuYYgG3kXcN_zAsdD4kTlzVViecV7cKGTgFziKJY21YmpgnM9h-IzMD_qCP-QamulQ_Dqgt2zxUMehwBUsPN9ghH8c1g7fV1gu71j9XyeRedZPUt9x1vdnaNbcSdfUF1S--oPzwJGHmlSe4p5Dw');
     background-repeat: no-repeat;
       background-attachment: fixed;
   background-size: 100% 100%;
@@ -170,45 +164,3 @@ p {
 }
 
 </style>
-</head>
-<body>
-<h1>Welcome to our Page!</h1>
-<h2>Our Menu</h2>
-<h4><span id="heading">Choose from a wide range of cuisines below!</span></h4>
-
-<div class="row">
-
-  <div class="col-lg-4 col-md-6 col-sm-9"><p id="rd">
-    <span id="rd2">ITALIAN</span>
- <br><br><span class="cont"> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-  tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-  quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-  consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-  cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-  proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</span></p></div>
-
-  <div class="col-lg-4 col-md-6 col-sm-9"><p id="rd">
-    <span id="rd2">FRENCH</span>
-    <br><br><span class="cont"> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-  tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-  quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-  consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-  cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-  proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</span></p></div>
-
-  <div class="col-lg-4 col-md-12 col-sm-9"><p id="rd">
-    <span id="rd2">INDIAN</span>
-  <br><br><span class="cont"> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-  tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-  quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-  consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-  cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-  proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</span></p></div>
-
-
-
-  <h3>Thank you for visiting!</h3>
-</div>
-
-</body>
-</html>
